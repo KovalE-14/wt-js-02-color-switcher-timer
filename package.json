@@ -2,7 +2,7 @@
     "name": "wt-js-02-color-switcher-timer",
     "version": "2.0.0",
     "description": "",
-    "homepage": "https://kovale-14.github.io/wt-js-02-color-switcher-timer/",
+    "homepage": "https://KovalE-14.github.io/wt-js-02-color-switcher-timer",
     "scripts": {
       "deploy": "gh-pages -d dist",
       "predeploy": "npm run build",
@@ -17,7 +17,7 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kovale-14/wt-js-02-color-switcher-timer/issues"
+      "url": "https://github.com/KovalE-14/wt-js-02-color-switcher-timer/issues"
     },
     "dependencies": {
       "flatpickr": "^4.6.13",
